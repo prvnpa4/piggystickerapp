@@ -1,0 +1,64 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "RashasPiggys",
+      "publisher": "Praveen",
+      "tray_image_file": "pig-ico.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_angry-pig.webp"
+        },
+        {
+          "image_file": "02_celebrating-pig.webp"
+        },
+        {
+          "image_file": "03_cool-pig.webp"
+        },
+        {
+          "image_file": "04_crying-pig.webp"
+        },        
+        {
+          "image_file": "05_feeling-pig.webp"
+        },
+        {
+          "image_file": "06_kissing-pig.webp"
+        },
+        {
+          "image_file": "07_laughing-pig.webp"
+        },
+        {
+          "image_file": "08_loving-eyes-pig.webp"
+        },
+        {
+          "image_file": "09_plainface-pig.webp"
+        },
+        {
+          "image_file": "10_sad-pig.webp"
+        },
+        {
+          "image_file": "11_smiling-pig.webp"
+        },
+        {
+          "image_file": "12_thinking-pig.webp"
+        },
+        {
+          "image_file": "13_thumbs-up-pig.webp"
+        },
+        {
+          "image_file": "14_winking-pig.webp"
+        },
+        {
+          "image_file": "15_wondering-pig.webp"
+        }
+      ]
+    }
+  ]
+}
+
