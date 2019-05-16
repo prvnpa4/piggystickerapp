@@ -1,6 +1,10 @@
 # Piggy Stickers App for WhatsApp
 
+![](/png/pig.png)
+
 ## Sticker art and app requirements
+
+![](/png/ss.jpg)
 
 We recommend you refer to the FAQ at https://faq.whatsapp.com/general/26000226 for complete details on how to properly create your sticker art. 
 
